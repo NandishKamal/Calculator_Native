@@ -16,13 +16,17 @@ ng serve
 Install Ionic :
 
 npm install -g cordova
+
 npm install -g ionic
+
 ionic init
+
 Version check: 
 node -v
 
 Angular version check: 
 npm -v
+
 Ionic version check:
 ionic -v
 
